@@ -1,0 +1,3616 @@
+@media (max-width:768px) {
+  .style0,
+  .style5 {
+    font-family: BalsamiqSans,serif
+  }
+  .style0 {
+    text-align: center;
+    font-size: 1.556396484375em;
+    margin-left: 70px;
+    margin-top: 163px;
+    height: 30px
+  }
+  .style5 {
+    font-size: .91552734375em;
+    margin-left: 167px;
+    margin-top: 0;
+    height: 18px
+  }
+  .style1,
+  .style3,
+  .style6 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 11px;
+    height: 18px
+  }
+  .style1,
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    text-indent: 7px;
+    margin-left: 125px;
+    width: 125px
+  }
+  .style6 {
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 169px;
+    width: 38px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em
+  }
+  .style7 {
+    text-align: center;
+    height: 9px
+  }
+  .style8 {
+    color: #00000a;
+    margin-left: 152px;
+    margin-top: 11px;
+    height: 14px
+  }
+  .selectshiprow0 {
+    display: flex;
+    margin-left: 8px;
+    margin-top: 19px;
+    width: 361px;
+    height: 18px;
+    align-items: stretch
+  }
+  .style25 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    margin-left: 0
+  }
+  .style19 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 210px;
+    width: 49px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 11px;
+    width: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10,
+  .style22 {
+    font-family: BalsamiqSans,serif
+  }
+  .style22 {
+    text-align: center;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style10 {
+    font-size: .91552734375em;
+    margin-left: 145px;
+    margin-top: 87px;
+    height: 18px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24,
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    margin-top: 0
+  }
+  .style9 {
+    text-align: center;
+    font-size: 1.556396484375em;
+    margin-left: 131px;
+    height: 30px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24 {
+    font-size: .91552734375em;
+    margin-left: 167px;
+    height: 18px
+  }
+  .style16,
+  .style23,
+  .style24 {
+    margin-left: 84px;
+    margin-top: 11px
+  }
+  .style16,
+  .style23 {
+    font-size: .518798828125em;
+    margin-top: 0;
+    height: 14px
+  }
+  .style23 {
+    color: #00000a
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 84px;
+    margin-top: 5px;
+    width: 208px;
+    height: 85px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style13,
+  .style14,
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    margin-top: 0;
+    height: 14px
+  }
+  .style17 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 162px;
+    margin-top: 16px;
+    width: 52px;
+    height: 18px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .selectrestaurantrow0 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 19px;
+    width: 359px;
+    height: 18px;
+    align-items: stretch
+  }
+  .selectrestaurantrow0unsupported0 {
+    margin-left: 0;
+    width: 142px
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 113px;
+    width: 49px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style28 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 11px;
+    width: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style29 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style39 {
+    background-color: #fff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 110px;
+    width: 63px;
+    height: 16px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style34,
+  .style37,
+  .style38,
+  .style40 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style34,
+  .style37,
+  .style38 {
+    font-size: .91552734375em;
+    margin-left: 80px;
+    margin-top: 0;
+    height: 18px
+  }
+  .style34,
+  .style38 {
+    font-size: .518798828125em;
+    height: 14px
+  }
+  .style38 {
+    color: #00000a
+  }
+  .style30 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 11px;
+    width: 208px;
+    height: 85px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style31,
+  .style32,
+  .style33 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    margin-top: 0;
+    height: 14px
+  }
+  .style35 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 158px;
+    margin-top: 11px;
+    width: 52px;
+    height: 18px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style36 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .checkinrow0 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 19px;
+    width: 359px;
+    height: 18px;
+    align-items: stretch
+  }
+  .checkinrow0unsupported0 {
+    margin-left: 0;
+    width: 168px
+  }
+  .style41 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 87px;
+    width: 49px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style42 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style43 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 11px;
+    width: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style44 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .checkinrow1,
+  .style45 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow1 {
+    margin-top: 11px;
+    height: 45px;
+    margin-left: 9px;
+    width: 359px
+  }
+  .style45 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 60px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style46 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style47 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 75px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style48 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style49 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 82px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style50 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style51 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style52 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style53 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 52px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style54 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .checkinunsupported1 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 7px;
+    width: 359px;
+    height: 309px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .checkinunsupported1row0 {
+    display: flex;
+    height: 18px;
+    align-items: stretch
+  }
+  .style63 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 92px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style61,
+  .style64 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em
+  }
+  .style64 {
+    text-align: center;
+    height: 9px
+  }
+  .style61 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 16px;
+    margin-left: 5px;
+    width: 262px
+  }
+  .checkinrow3,
+  .style55 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow3 {
+    margin-top: 11px;
+    height: 70px;
+    margin-left: 9px;
+    width: 359px
+  }
+  .style55 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 138px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style56 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style57 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 110px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style58 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style59 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 110px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style60 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .checkinshowingreservationsrow0 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 19px;
+    width: 359px;
+    height: 18px;
+    align-items: stretch
+  }
+  .checkinshowingreservationsrow0unsupported0 {
+    margin-left: 0;
+    width: 168px
+  }
+  .style65 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 87px;
+    width: 49px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style66 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style67 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 11px;
+    width: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style68 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .checkinshowingreservationsrow1 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 11px;
+    width: 359px;
+    height: 45px;
+    align-items: stretch
+  }
+  .style69 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 60px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style70 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style71 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 75px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style72 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style73 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 82px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style74 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style75 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style76 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style77 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 52px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style78 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .checkinshowingreservationsunsupported1 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 7px;
+    width: 359px;
+    height: 309px;
+    flex-direction: column
+  }
+  .checkinshowingreservationsunsupported1row0 {
+    display: flex;
+    margin-top: 168px;
+    width: 100%;
+    height: 18px;
+    align-items: stretch
+  }
+  .style87 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 89px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style85,
+  .style88 {
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em
+  }
+  .style88 {
+    text-align: center;
+    height: 9px
+  }
+  .style85 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 16px;
+    margin-left: 9px;
+    width: 262px
+  }
+  .checkinshowingreservationsunsupported1unsupported2 {
+    margin-top: 4px;
+    width: 136px;
+    height: 115px
+  }
+  .checkinshowingreservationsrow3 {
+    display: flex;
+    margin-left: 9px;
+    margin-top: 11px;
+    width: 359px;
+    height: 70px;
+    align-items: stretch
+  }
+  .style79 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 138px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style80 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style81 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 110px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style82 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+  .style83 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 110px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style84 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: .518798828125em;
+    height: 9px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style0,
+  .style5 {
+    font-family: BalsamiqSans,serif
+  }
+  .style0 {
+    text-align: center;
+    font-size: 3.1875em;
+    margin-left: 143px;
+    margin-top: 333px;
+    height: 62px
+  }
+  .style5 {
+    font-size: 1.875em;
+    margin-left: 342px;
+    margin-top: 0;
+    height: 37px
+  }
+  .style1,
+  .style3,
+  .style6 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 22px;
+    height: 37px
+  }
+  .style1,
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    text-indent: 14px;
+    margin-left: 257px;
+    width: 257px
+  }
+  .style6 {
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 346px;
+    width: 78px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em
+  }
+  .style7 {
+    text-align: center;
+    height: 18px
+  }
+  .style8 {
+    color: #00000a;
+    margin-left: 312px;
+    margin-top: 22px;
+    height: 29px
+  }
+  .selectshiprow0 {
+    display: flex;
+    margin-left: 17px;
+    margin-top: 39px;
+    width: 739px;
+    height: 37px;
+    align-items: stretch
+  }
+  .style25 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    margin-left: 0
+  }
+  .style19 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 431px;
+    width: 101px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 22px;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10,
+  .style22 {
+    font-family: BalsamiqSans,serif
+  }
+  .style22 {
+    text-align: center;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style10 {
+    font-size: 1.875em;
+    margin-left: 296px;
+    margin-top: 179px;
+    height: 37px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24,
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    margin-top: 0
+  }
+  .style9 {
+    text-align: center;
+    font-size: 3.1875em;
+    margin-left: 269px;
+    height: 62px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24 {
+    font-size: 1.875em;
+    margin-left: 342px;
+    height: 37px
+  }
+  .style16,
+  .style23,
+  .style24 {
+    margin-left: 172px;
+    margin-top: 22px
+  }
+  .style16,
+  .style23 {
+    font-size: 1.0625em;
+    margin-top: 0;
+    height: 29px
+  }
+  .style23 {
+    color: #00000a
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 172px;
+    margin-top: 11px;
+    width: 426px;
+    height: 175px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style13,
+  .style14,
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    margin-top: 0;
+    height: 29px
+  }
+  .style17 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 332px;
+    margin-top: 33px;
+    width: 107px;
+    height: 37px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .selectrestaurantrow0 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 39px;
+    width: 736px;
+    height: 37px;
+    align-items: stretch
+  }
+  .selectrestaurantrow0unsupported0 {
+    margin-left: 0;
+    width: 290px
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 232px;
+    width: 101px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style28 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 22px;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style29 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style39 {
+    background-color: #fff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    display: flex;
+    margin-left: 164px;
+    margin-top: 225px;
+    width: 129px;
+    height: 33px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style34,
+  .style37,
+  .style38,
+  .style40 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style34,
+  .style37,
+  .style38 {
+    font-size: 1.875em;
+    margin-left: 164px;
+    margin-top: 0;
+    height: 37px
+  }
+  .style34,
+  .style38 {
+    font-size: 1.0625em;
+    height: 29px
+  }
+  .style38 {
+    color: #00000a
+  }
+  .style30 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 164px;
+    margin-top: 22px;
+    width: 426px;
+    height: 175px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style31,
+  .style32,
+  .style33 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    margin-top: 0;
+    height: 29px
+  }
+  .style35 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 324px;
+    margin-top: 22px;
+    width: 107px;
+    height: 37px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style36 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .checkinrow0 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 39px;
+    width: 736px;
+    height: 37px;
+    align-items: stretch
+  }
+  .checkinrow0unsupported0 {
+    margin-left: 0;
+    width: 344px
+  }
+  .style41 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 178px;
+    width: 101px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style42 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style43 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 22px;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style44 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .checkinrow1,
+  .style45 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow1 {
+    margin-top: 22px;
+    height: 93px;
+    margin-left: 19px;
+    width: 735px
+  }
+  .style45 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 122px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style46 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style47 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 153px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style48 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style49 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 168px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style50 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style51 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 185px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style52 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style53 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 107px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style54 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .checkinunsupported1 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 14px;
+    width: 736px;
+    height: 632px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .checkinunsupported1row0 {
+    display: flex;
+    height: 37px;
+    align-items: stretch
+  }
+  .style63 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 189px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style61,
+  .style64 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em
+  }
+  .style64 {
+    text-align: center;
+    height: 18px
+  }
+  .style61 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 32px;
+    margin-left: 11px;
+    width: 536px
+  }
+  .checkinrow3,
+  .style55 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow3 {
+    margin-top: 22px;
+    height: 144px;
+    margin-left: 19px;
+    width: 736px
+  }
+  .style55 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 283px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style56 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style57 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 226px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style58 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style59 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 226px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style60 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .checkinshowingreservationsrow0 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 39px;
+    width: 736px;
+    height: 37px;
+    align-items: stretch
+  }
+  .checkinshowingreservationsrow0unsupported0 {
+    margin-left: 0;
+    width: 344px
+  }
+  .style65 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 178px;
+    width: 101px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style66 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style67 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 22px;
+    width: 90px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style68 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .checkinshowingreservationsrow1 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 22px;
+    width: 735px;
+    height: 93px;
+    align-items: stretch
+  }
+  .style69 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 122px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style70 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style71 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 153px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style72 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style73 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 168px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style74 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style75 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 185px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style76 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style77 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 107px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style78 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .checkinshowingreservationsunsupported1 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 14px;
+    width: 736px;
+    height: 632px;
+    flex-direction: column
+  }
+  .checkinshowingreservationsunsupported1row0 {
+    display: flex;
+    margin-top: 344px;
+    width: 100%;
+    height: 37px;
+    align-items: stretch
+  }
+  .style87 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 182px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style85,
+  .style88 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em
+  }
+  .style88 {
+    text-align: center;
+    height: 18px
+  }
+  .style85 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 32px;
+    margin-left: 18px;
+    width: 536px
+  }
+  .checkinshowingreservationsunsupported1unsupported2 {
+    margin-top: 8px;
+    width: 278px;
+    height: 236px
+  }
+  .checkinshowingreservationsrow3 {
+    display: flex;
+    margin-left: 19px;
+    margin-top: 22px;
+    width: 736px;
+    height: 144px;
+    align-items: stretch
+  }
+  .style79 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 283px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style80 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style81 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 226px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style82 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+  .style83 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 226px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style84 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.0625em;
+    height: 18px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style0,
+  .style5 {
+    font-family: BalsamiqSans,serif
+  }
+  .style0 {
+    text-align: center;
+    font-size: 3.8183593750000004em;
+    margin-left: 171px;
+    margin-top: 399px;
+    height: 74px
+  }
+  .style5 {
+    font-size: 2.24609375em;
+    margin-left: 410px;
+    margin-top: 0;
+    height: 44px
+  }
+  .style1,
+  .style3,
+  .style6 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 26px;
+    height: 44px
+  }
+  .style1,
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    text-indent: 17px;
+    margin-left: 308px;
+    width: 308px
+  }
+  .style6 {
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 414px;
+    width: 93px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em
+  }
+  .style7 {
+    text-align: center;
+    height: 22px
+  }
+  .style8 {
+    color: #00000a;
+    margin-left: 374px;
+    margin-top: 26px;
+    height: 35px
+  }
+  .selectshiprow0 {
+    display: flex;
+    margin-left: 20px;
+    margin-top: 47px;
+    width: 885px;
+    height: 44px;
+    align-items: stretch
+  }
+  .style25 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    margin-left: 0
+  }
+  .style19 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 516px;
+    width: 121px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 26px;
+    width: 108px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10,
+  .style22 {
+    font-family: BalsamiqSans,serif
+  }
+  .style22 {
+    text-align: center;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style10 {
+    font-size: 2.24609375em;
+    margin-left: 355px;
+    margin-top: 214px;
+    height: 44px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24,
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    margin-top: 0
+  }
+  .style9 {
+    text-align: center;
+    font-size: 3.8183593750000004em;
+    margin-left: 322px;
+    height: 74px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24 {
+    font-size: 2.24609375em;
+    margin-left: 410px;
+    height: 44px
+  }
+  .style16,
+  .style23,
+  .style24 {
+    margin-left: 206px;
+    margin-top: 26px
+  }
+  .style16,
+  .style23 {
+    font-size: 1.2727864583333335em;
+    margin-top: 0;
+    height: 35px
+  }
+  .style23 {
+    color: #00000a
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 206px;
+    margin-top: 13px;
+    width: 510px;
+    height: 210px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style13,
+  .style14,
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    margin-top: 0;
+    height: 35px
+  }
+  .style17 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 398px;
+    margin-top: 40px;
+    width: 128px;
+    height: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .selectrestaurantrow0 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 47px;
+    width: 882px;
+    height: 44px;
+    align-items: stretch
+  }
+  .selectrestaurantrow0unsupported0 {
+    margin-left: 0;
+    width: 347px
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 278px;
+    width: 121px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style28 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 26px;
+    width: 108px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style29 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style39 {
+    background-color: #fff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    display: flex;
+    margin-left: 196px;
+    margin-top: 270px;
+    width: 155px;
+    height: 40px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style34,
+  .style37,
+  .style38,
+  .style40 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style34,
+  .style37,
+  .style38 {
+    font-size: 2.24609375em;
+    margin-left: 196px;
+    margin-top: 0;
+    height: 44px
+  }
+  .style34,
+  .style38 {
+    font-size: 1.2727864583333335em;
+    height: 35px
+  }
+  .style38 {
+    color: #00000a
+  }
+  .style30 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 196px;
+    margin-top: 26px;
+    width: 510px;
+    height: 210px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style31,
+  .style32,
+  .style33 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    margin-top: 0;
+    height: 35px
+  }
+  .style35 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 388px;
+    margin-top: 26px;
+    width: 128px;
+    height: 44px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style36 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .checkinrow0 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 47px;
+    width: 882px;
+    height: 44px;
+    align-items: stretch
+  }
+  .checkinrow0unsupported0 {
+    margin-left: 0;
+    width: 412px
+  }
+  .style41 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 213px;
+    width: 121px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style42 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style43 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 26px;
+    width: 108px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style44 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .checkinrow1,
+  .style45 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow1 {
+    margin-top: 26px;
+    height: 111px;
+    margin-left: 23px;
+    width: 880px
+  }
+  .style45 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 146px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style46 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style47 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 183px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style48 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style49 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 201px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style50 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style51 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 222px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style52 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style53 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 128px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style54 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .checkinunsupported1 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 17px;
+    width: 882px;
+    height: 757px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .checkinunsupported1row0 {
+    display: flex;
+    height: 44px;
+    align-items: stretch
+  }
+  .style63 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 226px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style61,
+  .style64 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em
+  }
+  .style64 {
+    text-align: center;
+    height: 22px
+  }
+  .style61 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 38px;
+    margin-left: 13px;
+    width: 642px
+  }
+  .checkinrow3,
+  .style55 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow3 {
+    margin-top: 26px;
+    height: 173px;
+    margin-left: 23px;
+    width: 882px
+  }
+  .style55 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 339px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style56 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style57 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 271px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style58 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style59 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 271px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style60 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .checkinshowingreservationsrow0 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 47px;
+    width: 882px;
+    height: 44px;
+    align-items: stretch
+  }
+  .checkinshowingreservationsrow0unsupported0 {
+    margin-left: 0;
+    width: 412px
+  }
+  .style65 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 213px;
+    width: 121px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style66 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style67 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 26px;
+    width: 108px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style68 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .checkinshowingreservationsrow1 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 26px;
+    width: 880px;
+    height: 111px;
+    align-items: stretch
+  }
+  .style69 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 146px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style70 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style71 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 183px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style72 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style73 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 201px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style74 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style75 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 222px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style76 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style77 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 128px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style78 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .checkinshowingreservationsunsupported1 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 17px;
+    width: 882px;
+    height: 757px;
+    flex-direction: column
+  }
+  .checkinshowingreservationsunsupported1row0 {
+    display: flex;
+    margin-top: 412px;
+    width: 100%;
+    height: 44px;
+    align-items: stretch
+  }
+  .style87 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 218px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style85,
+  .style88 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em
+  }
+  .style88 {
+    text-align: center;
+    height: 22px
+  }
+  .style85 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 38px;
+    margin-left: 22px;
+    width: 642px
+  }
+  .checkinshowingreservationsunsupported1unsupported2 {
+    margin-top: 10px;
+    width: 333px;
+    height: 283px
+  }
+  .checkinshowingreservationsrow3 {
+    display: flex;
+    margin-left: 23px;
+    margin-top: 26px;
+    width: 882px;
+    height: 173px;
+    align-items: stretch
+  }
+  .style79 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 339px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style80 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style81 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 271px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style82 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+  .style83 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 271px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style84 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.2727864583333335em;
+    height: 22px
+  }
+}
+@media (min-width:1200px) {
+  .style0,
+  .style5 {
+    font-family: BalsamiqSans,serif
+  }
+  .style0 {
+    text-align: center;
+    font-size: 4.98046875em;
+    margin-left: 223px;
+    margin-top: 520px;
+    height: 97px
+  }
+  .style5 {
+    font-size: 2.9296875em;
+    margin-left: 534px;
+    margin-top: 0;
+    height: 58px
+  }
+  .style1,
+  .style3,
+  .style6 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    margin-top: 34px;
+    height: 58px
+  }
+  .style1,
+  .style3 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    text-indent: 22px;
+    margin-left: 402px;
+    width: 402px
+  }
+  .style6 {
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 541px;
+    width: 122px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style7,
+  .style8 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em
+  }
+  .style7 {
+    text-align: center;
+    height: 28px
+  }
+  .style8 {
+    color: #00000a;
+    margin-left: 488px;
+    margin-top: 34px;
+    height: 45px
+  }
+  .selectshiprow0 {
+    display: flex;
+    margin-left: 27px;
+    margin-top: 61px;
+    width: 1155px;
+    height: 58px;
+    align-items: stretch
+  }
+  .style25 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    margin-left: 0
+  }
+  .style19 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 673px;
+    width: 158px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style20 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style21 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 34px;
+    width: 141px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style10,
+  .style22 {
+    font-family: BalsamiqSans,serif
+  }
+  .style22 {
+    text-align: center;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style10 {
+    font-size: 2.9296875em;
+    margin-left: 463px;
+    margin-top: 280px;
+    height: 58px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24,
+  .style9 {
+    font-family: BalsamiqSans,serif;
+    margin-top: 0
+  }
+  .style9 {
+    text-align: center;
+    font-size: 4.98046875em;
+    margin-left: 420px;
+    height: 97px
+  }
+  .style11,
+  .style16,
+  .style23,
+  .style24 {
+    font-size: 2.9296875em;
+    margin-left: 534px;
+    height: 58px
+  }
+  .style16,
+  .style23,
+  .style24 {
+    margin-left: 269px;
+    margin-top: 34px
+  }
+  .style16,
+  .style23 {
+    font-size: 1.66015625em;
+    margin-top: 0;
+    height: 45px
+  }
+  .style23 {
+    color: #00000a
+  }
+  .style12 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 269px;
+    margin-top: 17px;
+    width: 666px;
+    height: 273px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style13,
+  .style14,
+  .style15 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    margin-top: 0;
+    height: 45px
+  }
+  .style17 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 519px;
+    margin-top: 52px;
+    width: 167px;
+    height: 58px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style18 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .selectrestaurantrow0 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 61px;
+    width: 1150px;
+    height: 58px;
+    align-items: stretch
+  }
+  .selectrestaurantrow0unsupported0 {
+    margin-left: 0;
+    width: 453px
+  }
+  .style26 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 363px;
+    width: 158px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style27 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style28 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 34px;
+    width: 141px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style29 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style39 {
+    background-color: #fff;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    display: flex;
+    margin-left: 256px;
+    margin-top: 352px;
+    width: 202px;
+    height: 52px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style34,
+  .style37,
+  .style38,
+  .style40 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style34,
+  .style37,
+  .style38 {
+    font-size: 2.9296875em;
+    margin-left: 256px;
+    margin-top: 0;
+    height: 58px
+  }
+  .style34,
+  .style38 {
+    font-size: 1.66015625em;
+    height: 45px
+  }
+  .style38 {
+    color: #00000a
+  }
+  .style30 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    display: flex;
+    margin-left: 256px;
+    margin-top: 34px;
+    width: 666px;
+    height: 273px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style31,
+  .style32,
+  .style33 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    margin-top: 0;
+    height: 45px
+  }
+  .style35 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 506px;
+    margin-top: 34px;
+    width: 167px;
+    height: 58px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style36 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .checkinrow0 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 61px;
+    width: 1150px;
+    height: 58px;
+    align-items: stretch
+  }
+  .checkinrow0unsupported0 {
+    margin-left: 0;
+    width: 538px
+  }
+  .style41 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 278px;
+    width: 158px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style42 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style43 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 34px;
+    width: 141px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style44 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .checkinrow1,
+  .style45 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow1 {
+    margin-top: 34px;
+    height: 145px;
+    margin-left: 30px;
+    width: 1148px
+  }
+  .style45 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 191px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style46 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style47 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 239px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style48 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style49 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 263px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style50 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style51 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 289px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style52 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style53 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 167px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style54 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .checkinunsupported1 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 22px;
+    width: 1150px;
+    height: 988px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: flex-end
+  }
+  .checkinunsupported1row0 {
+    display: flex;
+    height: 58px;
+    align-items: stretch
+  }
+  .style63 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 295px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style61,
+  .style64 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em
+  }
+  .style64 {
+    text-align: center;
+    height: 28px
+  }
+  .style61 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 50px;
+    margin-left: 17px;
+    width: 838px
+  }
+  .checkinrow3,
+  .style55 {
+    display: flex;
+    align-items: stretch
+  }
+  .checkinrow3 {
+    margin-top: 34px;
+    height: 225px;
+    margin-left: 30px;
+    width: 1150px
+  }
+  .style55 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    margin-left: 0;
+    width: 442px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style56 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style57 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 353px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style58 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style59 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 353px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style60 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .checkinshowingreservationsrow0 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 61px;
+    width: 1150px;
+    height: 58px;
+    align-items: stretch
+  }
+  .checkinshowingreservationsrow0unsupported0 {
+    margin-left: 0;
+    width: 538px
+  }
+  .style65 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 278px;
+    width: 158px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style66 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style67 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 34px;
+    width: 141px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style68 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .checkinshowingreservationsrow1 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 34px;
+    width: 1148px;
+    height: 145px;
+    align-items: stretch
+  }
+  .style69 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 191px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style70 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style71 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 239px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style72 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style73 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 263px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style74 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style75 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 289px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style76 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style77 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 167px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style78 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .checkinshowingreservationsunsupported1 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 22px;
+    width: 1150px;
+    height: 988px;
+    flex-direction: column
+  }
+  .checkinshowingreservationsunsupported1row0 {
+    display: flex;
+    margin-top: 538px;
+    width: 100%;
+    height: 58px;
+    align-items: stretch
+  }
+  .style87 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 284px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style85,
+  .style88 {
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em
+  }
+  .style88 {
+    text-align: center;
+    height: 28px
+  }
+  .style85 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    text-indent: 50px;
+    margin-left: 28px;
+    width: 838px
+  }
+  .checkinshowingreservationsunsupported1unsupported2 {
+    margin-top: 13px;
+    width: 434px;
+    height: 369px
+  }
+  .checkinshowingreservationsrow3 {
+    display: flex;
+    margin-left: 30px;
+    margin-top: 34px;
+    width: 1150px;
+    height: 225px;
+    align-items: stretch
+  }
+  .style79 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 442px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style80 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style81 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 353px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style82 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+  .style83 {
+    background-color: #fff;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    box-shadow: 170278px 170278px 0 0 #000;
+    display: flex;
+    margin-left: 0;
+    width: 353px;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style84 {
+    text-align: center;
+    font-family: BalsamiqSans,serif;
+    font-size: 1.66015625em;
+    height: 28px
+  }
+}
